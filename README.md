@@ -1,17 +1,11 @@
 Selenium Module for Citrus Framework
 ==============
 
-Welcome to Citrus
+Welcome to Citrus Selenium Module
 ---------
 
-Citrus is a test framework written in Java that is able to create
-fully automated end-to-end use case tests for enterprise SOA
-applications. Citrus simulates surrounding interface partners
-supporting a huge set of different transports and protocols like
-Http, JMS, TCP/IP, FTP, SOAP, XML and JSON.
-
-Visit the official website at 'http://www.citrusframework.org'
-for more information and a detailed documentation.
+Citrus Selenium is a module for citrus framework written in Java that is able to create
+fully automated web gui tests.
 
 Preconditions
 ---------
